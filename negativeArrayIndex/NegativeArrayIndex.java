@@ -1,4 +1,4 @@
-// This small code snippet is to demonstrate that Java
+// This small code snippet is to demonstrate that the Java
 // compiler doesn't check the range of the index positions
 // at which you try to access an array element.
 
