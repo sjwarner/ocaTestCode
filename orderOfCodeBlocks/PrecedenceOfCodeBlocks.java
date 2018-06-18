@@ -1,22 +1,18 @@
 public class PrecedenceOfCodeBlocks {
 
     static {
-
         System.out.println("I am the first static initializer");
     }
 
     static {
-
         System.out.println("I am the second static curly initializer ");
     }
 
     {
-
         System.out.println("I am the first static initializer");
     }
 
     {
-
         System.out.println("I am the first initializer");
     }
 
